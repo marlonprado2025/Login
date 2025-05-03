@@ -148,3 +148,10 @@ button:hover{
 .link-registro a:hover{
     text-decoration: underline;
 }
+
+@media (max-width: 350px) {
+    .formulario{
+        width: 280px;
+    }
+    
+}
